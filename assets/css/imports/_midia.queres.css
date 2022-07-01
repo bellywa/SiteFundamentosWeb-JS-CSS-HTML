@@ -1,0 +1,14 @@
+@media (max-width: 800px) {
+    .col {
+        width: 100%;
+    }
+    .row {
+        display: block;
+    }
+    ul.social {
+        margin-left: 0;
+    }
+    footer.absolute {
+        position: relative;
+    }
+}
